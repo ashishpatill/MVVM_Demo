@@ -1,4 +1,4 @@
-# MVVM_Demo
+# MVVM Design Pattern
 # Terminologies
 Model:- An Entity to hold the data in simple basic data types
 View/View Controller:- Presenting data to user.
